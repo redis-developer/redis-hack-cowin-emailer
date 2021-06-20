@@ -1,7 +1,7 @@
 {
     "app_name": "cowin-emailer",
     "description": "A tool to notify users about COVID vaccination slots",
-    "hidden": false,
+    "hidden": true,
     "rank": "21",
     "type": "Full App",
     "contributed_by": "Community",
