@@ -19,11 +19,11 @@
     "language": ["Python"],
     "redis_commands": ["EXISTS", "JSON.GET", "JSON.SET", "JSON.ARRAPPEND"],
     "redis_features": [],
-    "redis_modules": ["RediJSON"],
+    "redis_modules": ["RedisJSON"],
     "app_image_urls": [
         "https://github.com/redis-developer/redis-hack-cowin-emailer/blob/main/screenshots/Screen%20Shot%202021-05-16%20at%2008.46.11.png"
     ],
-    "youtube_url": "https://youtu.be/p7iCCUxRYrg",
+    "youtube_url": "https://www.youtube.com/watch?v=p7iCCUxRYrg",
     "special_tags": ["Hackathon"],
     "verticals": ["Healthcare"],
     "markdown": "https://raw.githubusercontent.com/redis-developer/redis-hack-cowin-emailer/main/README.md"
