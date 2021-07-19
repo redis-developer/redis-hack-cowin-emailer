@@ -7,7 +7,7 @@
     "repo_url": "https://github.com/redis-developer/redis-hack-cowin-emailer/",
     "download_url": "https://github.com/redis-developer/adding-apps-to-redis-marketplace/archive/refs/heads/master.zip",
     "hosted_url": "",
-    "quick_deploy": "true",
+    "quick_deploy": "false",
     "deploy_buttons": [
         {
             "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redis-hack-cowin-emailer.git" 
