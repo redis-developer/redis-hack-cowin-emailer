@@ -3,7 +3,6 @@
     "description": "A tool to notify users about COVID vaccination slots",
     "rank": "331",
     "type": "Full App",
-    "hidden": "true",
     "contributed_by": "Community",
     "repo_url": "https://github.com/redis-developer/redis-hack-cowin-emailer/",
     "preview_image_url": "https://raw.githubusercontent.com/redis-developer/redis-hack-cowin-emailer/master/images/app_preview_image.png",
