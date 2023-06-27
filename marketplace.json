@@ -19,8 +19,8 @@
     ],
     "language": ["Python"],
     "redis_commands": ["EXISTS", "JSON.GET", "JSON.SET", "JSON.ARRAPPEND"],
-    "redis_features": [],
-    "redis_modules": ["RedisJSON"],
+    "redis_use_cases": [],
+    "redis_features": ["JSON"],
     "app_image_urls": [
         "https://github.com/aryan9600/redis-hack-cowin-emailer/raw/main/screenshots/Screen%20Shot%202021-05-16%20at%2010.07.06.png"
     ],
