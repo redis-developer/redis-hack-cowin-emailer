@@ -22,7 +22,7 @@
     "redis_features": [],
     "redis_modules": ["RedisJSON"],
     "app_image_urls": [
-        "https://raw.githubusercontent.com/redis-developer/redis-hack-cowin-emailer/master/images/app_preview_image.png"
+        "https://github.com/aryan9600/redis-hack-cowin-emailer/raw/main/screenshots/Screen%20Shot%202021-05-16%20at%2010.07.06.png"
     ],
     "youtube_url": "https://www.youtube.com/watch?v=p7iCCUxRYrg",
     "special_tags": ["Hackathon"],
